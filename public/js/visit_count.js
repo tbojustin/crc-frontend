@@ -1,6 +1,8 @@
 function visit_count() {
-    fetch("https://w894g5a5sa.execute-api.us-east-1.amazonaws.com/test")
+    fetch("https://w894g5a5sa.execute-api.us-east-1.amazonaws.com/test", {
+        mode: 'no-cors'
+    })
         .then(response => response.json())
-        .then(data => document.getElementById('Visit_Count').innerHTML = "Vistor: " + data)
+        .then(data => document.getElementById('Visit_Count').innerHTML = `Vistor: ${data}`)
         .catch(err => console.log(err));
 }
