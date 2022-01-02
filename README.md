@@ -1,6 +1,6 @@
 # crc-frontend
 
-This is the frontend portion of the, um, "Someone Else's Computer Curriculm Vitae Trial" (that's not the real name, but if you got here through Google - good for you!) - [more information here](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
+This is the frontend portion of the, um, "Someone-Else's-Computer Curriculm Vitae Trial" (that's not the real name, but if you got here through Google - good for you!) - [more information here](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 
 
 This repo covers the following portions of the "trial":
