@@ -11403,6 +11403,10 @@ p.lead {
   background-color: #bd5d38;
 }
 
+a.social-icon {
+  text-decoration: none;
+}
+
 .dev-icons {
   font-size: 3rem;
 }
